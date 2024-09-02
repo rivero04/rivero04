@@ -64,11 +64,10 @@ I am passionate about working on challenging projects that turn ideas into tangi
 ## 🎯 My Goal:
 My goal is to continue developing as a **Full-Stack** developer, seeking new challenges and opportunities where I can apply my creativity and technical skills to solve complex problems. I am open to collaborating on interesting projects and am always available to learn new technologies. **Additionally, I am looking to find my first job as a software developer.**
 
-
 ---
 
 ### 🌱 I'm currently learning:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfecting+React%2C+TypeScript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfecting+React+and+TypeScript)
 
 ## 🐍 A Snake Eating My Contributions Graph
 	
