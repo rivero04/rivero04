@@ -40,7 +40,15 @@ Me apasiona trabajar en proyectos desafiantes que transforman ideas en solucione
 ---
 
 ## 📈 GitHub Stats:
-![snake gif](https://github.com/rivero04/rivero04/blob/output/github-contribution-grid-snake.svg)
+<!-- GitHub Stats -->
+<a href="https://github.com/rivero04">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivero04&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs,issues&include_all_commits=true" alt="GitHub Stats">
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/rivero04">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivero04&hide_title=true&hide_border=true&layout=compact" alt="Top Languages">
+</a>
 
 
 ---
