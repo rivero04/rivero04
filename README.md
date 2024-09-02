@@ -1,6 +1,7 @@
 # 👋 Hola, soy **Ignacio Rivero**!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AF7E3&width=435&lines=Software+Developer+%7C+Full-Stack+Engineer;Innovador+y+apasionado+por+la+tecnolog%C3%ADa;Siempre+buscando+resolver+problemas+con+soluciones+efectivas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AF7E3&width=435&lines=Full-Stack+Developer)
+
 
 ## 🛠 Tecnologías que manejo:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,9 +44,11 @@ Soy un desarrollador de software especializado en **Full-Stack** con experiencia
 ---
 
 ## 🎯 Mi objetivo:
-Mi objetivo es seguir desarrollándome como desarrollador **Full-Stack**, buscando nuevos desafíos y oportunidades donde pueda aplicar mi creatividad y habilidades técnicas para resolver problemas complejos. Estoy abierto a colaborar en proyectos interesantes y estoy siempre disponible para aprender nuevas tecnologías.
+Mi objetivo es seguir desarrollándome como desarrollador **Full-Stack**, buscando nuevos desafíos y oportunidades donde pueda aplicar mi creatividad y habilidades técnicas para resolver problemas complejos.
+Estoy abierto a colaborar en proyectos interesantes y estoy siempre disponible para aprender nuevas tecnologías.
 
 ---
 
 ### 🧠 **Siempre aprendiendo**:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Actualmente+aprendiendo%3A+TypeScript%2C+AWS%2C+DevOps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfeccionando+React%2C+TypeScript%2C)
+
