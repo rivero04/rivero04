@@ -17,7 +17,8 @@
 ---
 
 ## 💼 Sobre mí:
-Soy un desarrollador de software especializado en **Full-Stack** con experiencia en tecnologías como **JavaScript**, **Python** y **React**. Siempre estoy buscando formas de mejorar mis habilidades y aprender nuevas tecnologías. Me apasiona trabajar en proyectos desafiantes que transforman ideas en soluciones tangibles.
+Soy un desarrollador de software especializado en **Full-Stack** con experiencia en tecnologías como **JavaScript**, **Python** y **React**. Siempre estoy buscando formas de mejorar mis habilidades y aprender nuevas tecnologías. 
+Me apasiona trabajar en proyectos desafiantes que transforman ideas en soluciones tangibles.
 
 📝 Actualmente, estoy cursando el primer año en la **Facultad de Ingeniería**, además de estar inmerso en los **Fundamentos de Ciencias de la Computación** en **Holberton School**. En paralelo, trabajo en proyectos donde constantemente estoy aprendiendo cosas nuevas.
 
@@ -29,17 +30,18 @@ Soy un desarrollador de software especializado en **Full-Stack** con experiencia
   
 ---
 
-## 🌐 Encuéntrame en:
+## 📬 Contactame:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riveroignacio/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rivero04)
+[![Portfolio](https://img.shields.io/badge/Portafolio_Web-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tuportafolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciorivero31@gmail.com)
+
 
 ---
 
 ## 📈 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rivero04&show_icons=true&theme=radical&hide=contribs,prs"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rivero04&theme=radical"/>
-</p>
+![snake gif](https://github.com/rivero04/rivero04/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -50,5 +52,5 @@ Estoy abierto a colaborar en proyectos interesantes y estoy siempre disponible p
 ---
 
 ### 🧠 **Siempre aprendiendo**:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfeccionando+React%2C+TypeScript%2C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfeccionando+React%2C+TypeScript)
 
