@@ -1,6 +1,4 @@
-# 👋 Hola, soy **Ignacio Rivero**!
-
-![Saludo](https://media.giphy.com/media/3o6ozvNxqydkPyGT8c/giphy.gif)
+# Hola, soy **Ignacio Rivero**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AF7E3&width=435&lines=Full-Stack+Developer)
 
