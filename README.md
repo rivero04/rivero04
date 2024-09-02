@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Ignacio Rivero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" />
+</p>
+
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230fde1f&size=35&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer" alt="Typing SVG">
