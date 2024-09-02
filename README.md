@@ -40,15 +40,7 @@ Me apasiona trabajar en proyectos desafiantes que transforman ideas en solucione
 ---
 
 ## 📈 GitHub Stats:
-<!-- GitHub Stats -->
-<a href="https://github.com/rivero04">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivero04&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs,issues&include_all_commits=true" alt="GitHub Stats">
-</a>
 
-<!-- Top Languages -->
-<a href="https://github.com/rivero04">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivero04&hide_title=true&hide_border=true&layout=compact" alt="Top Languages">
-</a>
 
 
 ---
@@ -62,3 +54,8 @@ Estoy abierto a colaborar en proyectos interesantes y estoy siempre disponible p
 ### 🧠 **Siempre aprendiendo**:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=0AF7E3&width=435&lines=Perfeccionando+React%2C+TypeScript)
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
