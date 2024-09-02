@@ -62,7 +62,8 @@ I am passionate about working on challenging projects that turn ideas into tangi
 ---
 
 ## 🎯 My Goal:
-My goal is to continue developing as a **Full-Stack** developer, seeking new challenges and opportunities where I can apply my creativity and technical skills to solve complex problems. I am open to collaborating on interesting projects and am always available to learn new technologies.
+My goal is to continue developing as a **Full-Stack** developer, seeking new challenges and opportunities where I can apply my creativity and technical skills to solve complex problems. I am open to collaborating on interesting projects and am always available to learn new technologies. **Additionally, I am looking to find my first job as a software developer.**
+
 
 ---
 
