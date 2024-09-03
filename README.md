@@ -50,7 +50,7 @@ I am passionate about working on challenging projects that turn ideas into tangi
 ## 📬 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riveroignacio/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciorivero31@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciorivero31@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rivero.04/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Web-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tuportafolio.com)
 
